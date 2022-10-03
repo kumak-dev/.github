@@ -1,7 +1,6 @@
 ## kumak.dev 
 
-Hello there, and welcome. I'm Kumak, and this is my pond.
-Feel free to look around, and do not hesitate to ping me in any case.
+Hello there, and welcome. I'm Kumak, and this is my "pond". Feel free to look around, and do not hesitate to ping me in any case.
 
 ### About
 It is an attempt to create a "My Perfect Development Environment."
