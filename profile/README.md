@@ -1,4 +1,4 @@
-## kumak.dev
+## kumak.dev 🐸
 
 Hello there, and welcome. I'm Kumak, and this is my pond.
 Feel free to look around, and do not hesitate to ping me in any case.
@@ -6,7 +6,7 @@ Feel free to look around, and do not hesitate to ping me in any case.
 ### About
 It is an attempt to create a "My Perfect Development Environment."
 
-A collection of libraries, workflows, generators, utilities, and services configured in a monorepo ready to generate a new project, preconfigure it, deploy on GitHub and hosting and be prepared to roll in no time.
+A collection of libraries, workflows, generators, utilities, and services configured in a monorepo ready to generate a new project, preconfigure it, deploy on GitHub and hosting and be prepared to roll in no time. 🚀
 
 ### Overview
 
