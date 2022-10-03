@@ -15,7 +15,7 @@ A collection of libraries, workflows, generators, utilities, and services config
 kumak.dev is a fictional organization that used a test case for <link> course I have just spontaneously enrolled in.
 
 One of the requirements is to apply acquired knowledge to real-world examples of organizations or companies. I want to take a bit different approach. I will create a fictional 
-a company called "kumak.dev", that will have an authentic purpose, goals, problems, metrics, budget, ambitions, and out-of-control lunatic CEO posting silly Twits without consulting them with PR *
+a company called "kumak.dev", that will have an authentic purpose, goals, problems, metrics, budget, ambitions, and out-of-control lunatic CEO posting silly Tweets without consulting them with PR *
 
 *Style Convention: Although I will try to be genuine in my approach to methodology and engineering, please don't expect me to keep 100% business vocabulary and a severe tone. I will solve the problems seriously but communicate them informally. Expect emojis, dank memes, and a wacky sense of humor
 
