@@ -20,4 +20,5 @@ a company called "kumak.dev", that will have an authentic purpose, goals, proble
 *Style Convention: Although I will try to be genuine in my approach to methodology and engineering, please don't expect me to keep 100% business vocabulary and a severe tone. I will solve the problems seriously but communicate them informally. Expect emojis, dank memes, and a wacky sense of humor
 
 Thanks for reading,
+
 Kumak 🐸
